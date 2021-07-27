@@ -1,2 +1,2 @@
 # Workspace
-      ### Work Repository for projgit | Focus on developing soft skills
+      ### WorkRepository for projects | Focus on developing soft skills
